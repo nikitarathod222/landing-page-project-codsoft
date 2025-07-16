@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  text-align: center;
+  background-color: hsl(137, 18%, 92%);
+  color: #333;
+}
+
+header {
+  background: oklab(65.53099999999999% 0.17581 -0.06068);
+  color: #0c0303;
+  padding: 50px 20px;
+}
+
+header img {
+  border-radius: 50%;
+  margin: 10px 0;
+  display: block;
+}
+
+a {
+  color: rgb(207, 24, 24);
+  text-decoration: underline;
+}
+
+section {
+  padding: 40px 20px;
+  background: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+footer {
+  background: #222;
+  color: white;
+  padding: 20px;
+}
